@@ -9,3 +9,9 @@ Pattern:
   - Q & A
   - Repeat
  
+Jürgen:
+- S3 Bucket
+- SLS Setup
+
+Gerry:
+- Create React App Repo

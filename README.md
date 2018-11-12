@@ -14,6 +14,7 @@ Jürgen:
 - SLS Setup
 
 Gerry:
+- Datum mit Jürgen fixieren
 - Create React App Repo
 
 

@@ -1,6 +1,6 @@
 # react-course
 
-Datum: 14.2.2019  - 15.2.2019 
+Datum: 14.2.2019  - 15.2.2019
 
 Pattern:
   - Lecture
@@ -15,3 +15,6 @@ Jürgen:
 
 Gerry:
 - Create React App Repo
+
+
+Scope überlegen: bis Sonntag, 18. November

@@ -25,6 +25,9 @@ class App extends Component {
         <div className="text-center" style={{ color: "#98b05d" }}>
           <strong>14. Februar 2019 - 15. Februar 2019</strong>
         </div>
+        <div className="text-center" style={{ color: "#98b05d" }}>
+          React Workshop für Anfänger
+        </div>
         <div className="mt2 text-center">
           <span>Interesse? </span>
           <Link href="http://eepurl.com/dNFZT-/">
